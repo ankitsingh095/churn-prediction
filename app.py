@@ -18,7 +18,7 @@ scaler = joblib.load("scaler.pkl")
 
 
 
-st.title("Churn Prediction App")
+st.title("Churn Prediction App- (Made by ANKIT SINGH)")
 st.divider()
 
 st.write("Please enter the values and hit the predict button for getting a prediction.")
