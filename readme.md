@@ -73,6 +73,7 @@ The objective of this project is to build a model that predicts:
 -   Scikit-learn
 -   Streamlit
 -   Matplotlib
+-   Joblib
 
 
 
@@ -151,18 +152,6 @@ run - streamlit run app.py
 
 
 
-##                  Technologies Used
-
--   Python
--   Pandas
--   NumPy
--   Scikit-learn
--   Streamlit
--   Joblib
-
-
-
-
 
 ##                   What I Learned
 
@@ -228,17 +217,6 @@ Thanks for checking my project!
 
 
 
-###                    Model Training
-
--   Split data into train and test sets
--   Trained classification model (e.g., Logistic Regression / Random
-    Forest)
--   Evaluated using accuracy score
-
-
-
-
-
 
 
 ##                  How to Run the Project
@@ -260,9 +238,6 @@ Thanks for checking my project!
 ### Step 4: Run Streamlit app
 
     streamlit run app.py
-
-
-
 
 
 
