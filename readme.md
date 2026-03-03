@@ -11,7 +11,7 @@ Logistic Regression performed best due to linear separability of features.
 
 
 
-# Live Link -  https://churn-prediction-2-4prs.onrender.com 
+# Live Link - https://churn-prediction-3-l4er.onrender.com 
 
 
 
