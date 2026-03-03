@@ -1,6 +1,16 @@
 # Churn Prediction using Machine Learning by Ankit Singh
 
 
+
+# Business Insights 
+
+Customers with lower tenure showed higher churn probability.
+Monthly charges positively correlated with churn.
+Logistic Regression performed best due to linear separability of features.
+
+
+
+
 # Live Link -  https://churn-prediction-2-4prs.onrender.com 
 
 
